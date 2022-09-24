@@ -23,7 +23,7 @@ python ./code/test_LA_our.py --dataset_name LA  --labelnum 16 --gpu 0
 ```
 
 ### Acknowledgements:
-Our code is origin from [UAMT](https://github.com/yulequan/UA-MT), [SASSNet](https://github.com/kleinzcy/SASSnet), [DTC](https://github.com/HiLab-git/DTC), [URPC](https://github.com/HiLab-git/SSL4MIS) and [SSL4MIS](https://github.com/HiLab-git/SSL4MIS). [MC-Net](https://github.com/ycwu1997/MC-Net)Thanks for these authors for their valuable works and hope our model can promote the relevant research as well.
+Our code is origin from [UAMT](https://github.com/yulequan/UA-MT), [SASSNet](https://github.com/kleinzcy/SASSnet), [DTC](https://github.com/HiLab-git/DTC), [URPC](https://github.com/HiLab-git/SSL4MIS), [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) and [MC-Net](https://github.com/ycwu1997/MC-Net). Thanks for these authors for their valuable works and hope our model ASE-Net can promote the relevant research as well.
 
 ### Questions
 
